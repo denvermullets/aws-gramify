@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gramify-dev-103756-authRole",
+      "UnauthRoleArn": "arn:aws:iam::878177675641:role/amplify-gramify-dev-103756-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::878177675641:role/amplify-gramify-dev-103756-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gramify-dev-103756-deployment",
+      "UnauthRoleName": "amplify-gramify-dev-103756-unauthRole",
+      "StackName": "amplify-gramify-dev-103756",
+      "StackId": "arn:aws:cloudformation:us-east-1:878177675641:stack/amplify-gramify-dev-103756/1c064e00-7136-11eb-8dc2-0e167b726915",
+      "AmplifyAppId": "d20ks2zqrnuqt1"
+    }
+  }
+}
